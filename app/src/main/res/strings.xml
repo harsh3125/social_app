@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="facebook_app_id">385216883180858</string>
+    <string name="fb_login_protocol_scheme">fb385216883180858</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
